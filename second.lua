@@ -1,3 +1,3 @@
-local script = Instance.new("Script")
-script.Parent = game.ServerScriptService
-script.Source = "print("Hello World")
+local Script = Instance.new("Script")
+Script.Parent = game.ServerScriptService
+Script.Source = "print("Hello World")
